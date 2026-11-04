@@ -26,15 +26,15 @@
 
 <p align="center"><img src="assets/h_built.svg" width="100%" alt="Things I've built"/></p>
 
-| | Project | What it does | Live |
-|:-:|---|---|---|
-| 01 | **StudyBull** | Free Hindi exam prep: 8,000+ MCQs, mock tests, current affairs, live Job Alert | [studybull.vercel.app](https://studybull.vercel.app) |
-| 02 | **Padhai Path** | Video classes platform with fast streaming and instant skip | [pdhaipath.vercel.app](https://pdhaipath.vercel.app) |
-| 03 | **Video Classes** | Video course site plus a Telegram link bot | [videoclasses.vercel.app](https://videoclasses.vercel.app) |
-| 04 | **PadhLo** | A clean study companion for daily practice | [padhlo.sites.tab.bot](https://padhlo.sites.tab.bot) |
-| 05 | **Karya AI** | An AI assistant demo that gets things done | [karya-ai-eight.vercel.app](https://karya-ai-eight.vercel.app) |
-| 06 | **Files Bull** | Telegram bot that stores and shares study files | [Open on Telegram](https://t.me/filesbull_bot) |
-| 07 | **Portfolio** | My portfolio, where arrows build the page live | [aarav-malik.vercel.app](https://aarav-malik.vercel.app) |
+| Project | What it does |
+|---|---|
+| 🎯 **[StudyBull](https://studybull.vercel.app)** | Free Hindi exam prep: 8,000+ MCQs, mock tests, current affairs, live Job Alert |
+| 🎬 **[Padhai Path](https://pdhaipath.vercel.app)** | Video classes platform with fast streaming and instant skip |
+| 📺 **[Video Classes](https://videoclasses.vercel.app)** | Video course site plus a Telegram link bot |
+| 📖 **[PadhLo](https://padhlo.sites.tab.bot)** | A clean study companion for daily practice |
+| 🤖 **[Karya AI](https://karya-ai-eight.vercel.app)** | An AI assistant demo that gets things done |
+| 📁 **[Files Bull](https://t.me/filesbull_bot)** | Telegram bot that stores and shares study files |
+| ✨ **[Portfolio](https://aarav-malik.vercel.app)** | My portfolio, where arrows build the page live |
 
 <p align="center"><img src="assets/pass.svg" width="100%" alt="Builder pass: Aarav Malik. 6 live projects, 8,000+ MCQs, 3 exams targeted, 2 Telegram bots, ₹0 cost to students."/></p>
 
